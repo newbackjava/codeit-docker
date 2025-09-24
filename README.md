@@ -16,20 +16,17 @@
 
 
 <hr>
-<img width="725" height="418" alt="스크린샷 2025-09-06 21 50 02" src="https://github.com/user-attachments/assets/76624645-e8be-4c2d-8d92-bb5dea4197df" />
+<img width="1330" height="754" alt="스크린샷 2025-09-24 21 15 30" src="https://github.com/user-attachments/assets/ea677d41-967a-489e-8c5c-50dd91a7a97f" />
+
 <hr>
-<img width="290" height="257" alt="스크린샷 2025-08-29 18 41 57" src="https://github.com/user-attachments/assets/3a4fb89c-caf1-45c4-b334-1faa2b2e7249" />
-<img width="1392" height="736" alt="스크린샷 2025-08-29 18 43 57" src="https://github.com/user-attachments/assets/b4a53ed0-96b7-43a0-8bbd-177bafab542e" />
 
-<img width="1383" height="735" alt="스크린샷 2025-08-29 18 42 57" src="https://github.com/user-attachments/assets/b275dd61-d1a1-48bf-a575-234159aba360" />
+<img width="1327" height="757" alt="스크린샷 2025-09-24 21 16 41" src="https://github.com/user-attachments/assets/60191d16-d1b7-4804-808b-3490ca964bdc" />
+<img width="1319" height="746" alt="스크린샷 2025-09-24 21 19 47" src="https://github.com/user-attachments/assets/ef9dfce0-8790-437f-b9df-4c994d9c907f" />
+<img width="1325" height="755" alt="스크린샷 2025-09-24 21 20 10" src="https://github.com/user-attachments/assets/5ba6f4dd-37dd-4fbb-b843-cdfa173401d2" />
+<img width="1321" height="753" alt="스크린샷 2025-09-24 21 20 41" src="https://github.com/user-attachments/assets/b6cbcc90-cff3-42ec-a7e0-2c472c9b6a56" />
+<img width="1328" height="759" alt="스크린샷 2025-09-24 21 23 10" src="https://github.com/user-attachments/assets/bf0cf98b-f91b-4ba5-b002-77fd8003921f" />
+<img width="1328" height="762" alt="스크린샷 2025-09-24 21 24 16" src="https://github.com/user-attachments/assets/6632c28c-6e56-43c1-8f27-4080f441439f" />
 
-<img width="1395" height="781" alt="스크린샷 2025-08-29 18 44 27" src="https://github.com/user-attachments/assets/18d5cd39-4127-47dc-81c1-ad0d5da81c24" />
-<img width="1389" height="768" alt="스크린샷 2025-08-29 18 44 46" src="https://github.com/user-attachments/assets/9ba15039-ea20-4c14-952d-11a09092d243" />
-<img width="1391" height="757" alt="스크린샷 2025-08-29 18 45 04" src="https://github.com/user-attachments/assets/0820af10-ad4b-42d0-a643-0057ed3f2203" />
-<img width="1376" height="780" alt="스크린샷 2025-08-29 18 46 08" src="https://github.com/user-attachments/assets/a8f1be99-e79f-4049-8335-0c1a77d6ef37" />
-<img width="1383" height="769" alt="스크린샷 2025-08-29 18 46 43" src="https://github.com/user-attachments/assets/536fb0be-2422-4356-84d7-bce4aa00650a" />
+<img width="1331" height="758" alt="스크린샷 2025-09-24 21 23 27" src="https://github.com/user-attachments/assets/f551ee7c-001b-46f4-8003-67d5175dd489" />
+<img width="1331" height="762" alt="스크린샷 2025-09-24 21 23 43" src="https://github.com/user-attachments/assets/cc6eb55d-9eb9-4939-b2e2-807cd7410a22" />
 
-<img width="1409" height="750" alt="스크린샷 2025-08-29 18 47 05" src="https://github.com/user-attachments/assets/b6120d31-ed05-4116-bb9d-798f1df41c84" />
-<img width="1413" height="741" alt="스크린샷 2025-08-29 18 47 43" src="https://github.com/user-attachments/assets/f4acb5ec-1830-45f6-b280-48398b6a6b46" />
-<img width="1411" height="747" alt="스크린샷 2025-08-29 18 49 19" src="https://github.com/user-attachments/assets/4662ffb9-fdc0-4df3-a776-da7104b6088c" />
-<img width="1413" height="749" alt="스크린샷 2025-08-29 18 49 58" src="https://github.com/user-attachments/assets/074716cb-7e63-48ea-b1e0-46fad4c76485" />
