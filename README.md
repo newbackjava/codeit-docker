@@ -16,10 +16,10 @@
 
 
 <hr>
+
 <img width="1330" height="754" alt="스크린샷 2025-09-24 21 15 30" src="https://github.com/user-attachments/assets/ea677d41-967a-489e-8c5c-50dd91a7a97f" />
 
 <hr>
-![Uploading 스크린샷 2025-09-24 21.27.51.png…]()
 
 <img width="1327" height="757" alt="스크린샷 2025-09-24 21 16 41" src="https://github.com/user-attachments/assets/60191d16-d1b7-4804-808b-3490ca964bdc" />
 <img width="1319" height="746" alt="스크린샷 2025-09-24 21 19 47" src="https://github.com/user-attachments/assets/ef9dfce0-8790-437f-b9df-4c994d9c907f" />
